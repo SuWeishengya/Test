@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeFied\\C#\\Test\\TestSln\\classA\\classA.csproj": {}
+    "D:\\CodeFied\\C#\\Test\\TestSln\\ClassA\\classA.csproj": {}
   },
   "projects": {
-    "D:\\CodeFied\\C#\\Test\\TestSln\\classA\\classA.csproj": {
+    "D:\\CodeFied\\C#\\Test\\TestSln\\ClassA\\classA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeFied\\C#\\Test\\TestSln\\classA\\classA.csproj",
+        "projectUniqueName": "D:\\CodeFied\\C#\\Test\\TestSln\\ClassA\\classA.csproj",
         "projectName": "classA",
-        "projectPath": "D:\\CodeFied\\C#\\Test\\TestSln\\classA\\classA.csproj",
+        "projectPath": "D:\\CodeFied\\C#\\Test\\TestSln\\ClassA\\classA.csproj",
         "packagesPath": "C:\\Users\\Smx\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeFied\\C#\\Test\\TestSln\\classA\\obj\\",
+        "outputPath": "D:\\CodeFied\\C#\\Test\\TestSln\\ClassA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Smx\\AppData\\Roaming\\NuGet\\NuGet.Config"
