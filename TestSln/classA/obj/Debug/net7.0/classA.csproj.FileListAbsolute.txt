@@ -1,0 +1,12 @@
+D:\CodeFied\C#\Test\TestSln\classA\bin\Debug\net7.0\classA.deps.json
+D:\CodeFied\C#\Test\TestSln\classA\bin\Debug\net7.0\classA.dll
+D:\CodeFied\C#\Test\TestSln\classA\bin\Debug\net7.0\classA.pdb
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.csproj.AssemblyReference.cache
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.AssemblyInfoInputs.cache
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.AssemblyInfo.cs
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.csproj.CoreCompileInputs.cache
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.dll
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\refint\classA.dll
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\classA.pdb
+D:\CodeFied\C#\Test\TestSln\classA\obj\Debug\net7.0\ref\classA.dll
