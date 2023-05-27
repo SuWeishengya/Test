@@ -1,0 +1,15 @@
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\bin\Debug\net7.0\SAMFiles.exe
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\bin\Debug\net7.0\SAMFiles.deps.json
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\bin\Debug\net7.0\SAMFiles.runtimeconfig.json
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\bin\Debug\net7.0\SAMFiles.dll
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\bin\Debug\net7.0\SAMFiles.pdb
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.csproj.AssemblyReference.cache
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.AssemblyInfoInputs.cache
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.AssemblyInfo.cs
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.csproj.CoreCompileInputs.cache
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.dll
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\refint\SAMFiles.dll
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.pdb
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\SAMFiles.genruntimeconfig.cache
+D:\CodeFied\C#\Test\SAMFiles\SAMFiles\obj\Debug\net7.0\ref\SAMFiles.dll
